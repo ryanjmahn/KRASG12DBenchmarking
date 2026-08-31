@@ -1,11 +1,8 @@
-# large model weights (keep out of git)
-ae-pocketminer/models/*.data-*
-ae-pocketminer/models/*.index
-# fpocket outputs (re-derivable)
+ae-pocketminer/
+p2rank_2.4.2/
 *_out/
-# conda / python junk
 __pycache__/
 *.pyc
 .DS_Store
-# large intermediate files
 *.npy
+p2rank.tar.gz
