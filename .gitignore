@@ -1,0 +1,11 @@
+# large model weights (keep out of git)
+ae-pocketminer/models/*.data-*
+ae-pocketminer/models/*.index
+# fpocket outputs (re-derivable)
+*_out/
+# conda / python junk
+__pycache__/
+*.pyc
+.DS_Store
+# large intermediate files
+*.npy
