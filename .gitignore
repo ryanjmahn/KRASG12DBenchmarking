@@ -6,3 +6,7 @@ __pycache__/
 .DS_Store
 *.npy
 p2rank.tar.gz
+ladder/
+ladder_test/
+ladder/
+ladder_test/
