@@ -6,3 +6,4 @@
 # Ladder validation: conf11 switch-II RMSD vs 7RPZ = 4.21 A
 # Interpretation: MD-free ladder opens pocket to ~89% volume but backbone differs 4.2A from holo induced-fit shape
 # NEGATIVE CONTROL: conf 0 (lad_00.pdb, 282 A3, closed) - tools should find minimal/no SII-P here
+# DENSE LADDER validation: conf23 (most-open) switch-II RMSD vs 7RPZ = 4.21 A, volume 92% of true open
