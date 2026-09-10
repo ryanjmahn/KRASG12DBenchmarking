@@ -1,0 +1,8 @@
+# True SII-P residues (within 4.5 A of MRTX1133 in 7RPZ)
+# Gold standard for precision/recall/MCC in Phase 3
+9,10,11,12,16,58,59,60,61,62,63,64,65,68,69,72,78,88,92,95,96,99,100,102,103
+# His95 present: True
+# True ligand center (DCA ref): -36.787,37.918,9.395
+# Ladder validation: conf11 switch-II RMSD vs 7RPZ = 4.21 A
+# Interpretation: MD-free ladder opens pocket to ~89% volume but backbone differs 4.2A from holo induced-fit shape
+# NEGATIVE CONTROL: conf 0 (lad_00.pdb, 282 A3, closed) - tools should find minimal/no SII-P here
