@@ -19,7 +19,7 @@ TRUE_PRESENT=set(r for r in TRUE_ALL if r not in MISSING)
 # PocketMiner probability threshold for calling a residue "predicted cryptic"
 # PocketMiner's paper uses ~0.7 as a high-confidence cutoff; we test a
 # moderate threshold. Adjustable.
-THRESHOLD = 0.9
+THRESHOLD = 0.7
 
 openness={}
 with open('ladder_dense.csv') as f:
